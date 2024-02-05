@@ -1,7 +1,13 @@
 # Software QA Project 
 
 ## Introduction 
-This is a project built as part of the FIT2107 course at Monash. The project involves making a calculator web app using Flask and then running test using Python's unittest framework
+This is a project built as part of the FIT2107 course at Monash. The project involves making a custom calculator web app for a problem set that was given using Flask and then running test using Python's unittest framework
+
+## Types of test carried out 
+1. Unit tests
+2. Integration Tests
+
+The tests carried out ensured that every functionality was covered and that the components worked well individually as well as when the whole app was compiled
 
 ## Setting up and running the project via the terminal
 
